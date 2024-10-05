@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, tailwind and bootstrap**
 
-- 📫 you can reach me at **Shahidaftab028@gmail.com**
+- 📫 you can reach me at **shahidaftab028@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
