@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Mern**
 
-- 💬 Ask me about **react, tailwind and bootstrap**
+- 💬 Ask me about **react, tailwind CSS and bootstrap**
 
 - 📫 you can reach me at **shahidaftab028@gmail.com**
 
