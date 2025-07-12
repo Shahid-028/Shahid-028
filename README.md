@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahid Aftab</h1>
 <h3 align="center">Frontend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **about Mern**
+- 🌱 I’m **Full stack Developer**
 
-- 💬 Ask me about **react, tailwind CSS and bootstrap**
+- 💬 Ask me about **react, tailwind CSS**
 
 - 📫 you can reach me at **shahidaftab028@gmail.com**
 
